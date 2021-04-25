@@ -4,3 +4,4 @@ bundle.js.map
 pocket-finance.mwb
 pocket-finance.mwb.bak
 .env
+.gitignore
